@@ -1,7 +1,7 @@
 #### Hi there! :smile:
-<p></p>
-<p></p>
-#### :muscle:Skills
+
+<p>#### :muscle:Skills</p>
+
 ###### Platforms & Languages
 
 <!--
