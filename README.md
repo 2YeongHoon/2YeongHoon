@@ -1,8 +1,8 @@
-### Hi there! :smile:
+## Hi there! :smile:
 
 
-### :muscle:Skills
-### Platforms & Languages
+## :muscle:Skills
+# Platforms & Languages
 
 <!--
 **2YeongHoon/2YeongHoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
