@@ -1,11 +1,8 @@
 #### Hi there! :smile:
- good day!
- 
- I'm yeonghoon Lee.
- 
- I'm trying to be a good back-end web developer.
- 
- Thank you in advance:)
+ good day!  
+ I'm yeonghoon Lee.  
+ I'm trying to be a good back-end web developer.  
+ Thank you in advance:)  
 
 
 
