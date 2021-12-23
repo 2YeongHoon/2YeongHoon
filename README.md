@@ -1,8 +1,8 @@
 ### **Hi there!** :smile:
- good day!  
- I'm yeonghoon Lee.  
- I'm trying to be a good back-end web developer.  
- Thank you in advance:)  
+ Hey there! My name is Yeonghoon Lee.  
+ I am familiar with various platforms and languages. Here, you will find the many projects I've worked on as a backend developer.  
+ I enjoy building and designing websites,  
+ and I look forward to working in web development opportunities. Thank you!  
  
  
  
