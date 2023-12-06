@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2YeongHoon&show_icons=true&theme=dracula)
+
 ### **Hi there!** :smile:
 Hey there! My name is Yeonghoon Lee.  
 I am familiar with various platforms and languages.  
